@@ -1,6 +1,9 @@
 # Geomatric_models-using_Konva.js
 
+A project based on the Konva.js. In which user can draw various shaped which can be draged/dropped according to their requirement coordinate
 
+## Konva.js
+Konva is HTML5 2d Canvas JavaScript framework that enables high performance animations, node nesting, layering, filtering, caching, event handling, drag and drop and much more.
 
 
 
