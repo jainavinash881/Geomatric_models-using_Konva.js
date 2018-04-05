@@ -1,0 +1,25 @@
+.konvajs-content
+{
+    border:1px solid black;
+}
+
+.center
+{
+    margin-top:10px;
+    text-align: center;
+}
+
+#canva
+{
+    border: 1px solid black;
+    resize: both;
+    overflow:auto;
+}
+
+#form
+{
+    margin:auto;
+    padding: 25px;
+    width:250px;
+    height:120px;
+}
